@@ -1,4 +1,4 @@
-## Purchase Subsription
+## Purchase Subscription
 
 Subscriptions are purchases that expire (or sometimes auto-renew) after a set perior of time. You should track when the subscription was purchased, when it expires, or read this information from the existing purchases. They follow the same work flow as a normal Non-Consumable.
 
